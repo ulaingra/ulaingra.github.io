@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ulaingra.github.io/sitemap
+Sitemap: https://ulaingra.github.io/app/sitemap
+Sitemap: https://ulaingra.github.io/assets/sitemap
+Sitemap: https://ulaingra.github.io/css/sitemap
+Sitemap: https://ulaingra.github.io/includes/sitemap
+Sitemap: https://ulaingra.github.io/item/sitemap
+Sitemap: https://ulaingra.github.io/src/sitemap
